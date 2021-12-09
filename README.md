@@ -8,7 +8,10 @@
 - 💻 You can checkout my repositories here: https://github.com/John-Mugo
 
 <p align="center"
-   <a href="mailto:johnmwangi13115@gmail.com" target="_blank">
+   <a href="https://www.linkedin.com/in/john-mugo-mwangi">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png">
+   </a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/john-mugo-mwangi/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:johnmwangi13115@gmail.com" target="_blank">
